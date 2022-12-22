@@ -82,10 +82,10 @@
 <li>Twitter</li>
 <li>LinkedIn</li>
 </ul>
-<h3>Location</h3>
-</p>We just track the location of the rider when it starts the delivery process and ends it when the delivery is done. We dont use your location data in any other means rather then just tracking the delivery process.</p>
 <p>If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.</p>
 <p>You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service's account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy.</p>
+<h3>Location</h3>
+</p>We just track the location of the rider when it starts the delivery process and ends it when the delivery is done. We dont use your location data in any other means rather then just tracking the delivery process.</p>
 <h3>Information Collected while Using the Application</h3>
 <p>While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:</p>
 <ul>
